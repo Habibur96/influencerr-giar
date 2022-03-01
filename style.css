@@ -64,8 +64,6 @@ p{
     grid-template-columns: repeat(2, 1fr);
     margin-top: 50px;
     grid-gap: 500px
-    
-
 }
 
 .left{
@@ -76,4 +74,10 @@ p{
     margin-left: 70px ;
     width: 440px;
      
+}
+
+.image img{
+    width: 100px;
+    /* background: url(.png); */
+    margin-right: 10px;
 }
