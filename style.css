@@ -129,8 +129,9 @@ p{
       grid-template-columns: 330px 330px 100px;   
  /* justify-content: center; */
     grid-column-gap: 30px;  
-    grid-row-gap: 30px;    
+    grid-row-gap: 35px;    
     margin-top: 50px;
+    margin-bottom: 70px;
     
 }
 
@@ -148,7 +149,7 @@ margin-right: 10px;
 }
 
 .pic-info{
-    margin-left: 10px ;   
+    margin-left: 18px ;   
 }
 
 .p-size{
@@ -161,7 +162,7 @@ margin-right: 10px;
 .number{
     font-size: 18px;
     font-weight: bold;
-   
+   padding-left: 15px;
     color: #5E6366;
 }
 
@@ -176,4 +177,21 @@ font-size: 18px;
 color: #787885;
 
 }
+
+#last-item{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgba(224, 44, 109, 0.87);
+    margin-left: 1370px;
+ 
+}
+
+/* =================A_simple_vidio_part================= */
+iframe{
+margin-left: 435px;
+margin-top: 100px;
+border-radius: 10px;
+
+}
+
 
