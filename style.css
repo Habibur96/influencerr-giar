@@ -302,7 +302,7 @@ border-radius: 10px;
         text-align: center;
         margin-right: 40px;
     } 
-    
+
     image{
     display: grid;
     grid-template-columns: 200px;
@@ -315,6 +315,45 @@ border-radius: 10px;
 
     .number{
 padding-left: -15px;
+    }
+}
+
+/*-----------------------------
+      tablet devices
+------------------------*/
+
+@media only screen and (min-width:688px) and 
+(max-width:992px) {
+
+     
+      #unique{
+        margin-left: 0px;
+
+    }  
+
+       /* h2{
+        margin-left: 55px;
+        
+    }      */
+
+    .pictures{
+        justify-content:center;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+
+    #last-item{
+        margin-left: 240px;
+    }
+
+    iframe{
+        margin-left: -40px;
+    }
+
+    .footer{
+        width: 380px;
     }
 }
 
