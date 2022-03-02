@@ -199,30 +199,36 @@ border-radius: 10px;
 
 .footer{
     background: #0A0826;
-     /* width: 100px;  */
-    /* display: block; */
-    height: 300px;
-    /* padding-bottom: 70px; */
-    /* margin-top: 50px; */
+    height: 300px; 
 }
 
 .footer{
 
     text-align: center;
-    padding-top: 50px;
-   
+    padding-top: 60px; 
+}
+ 
+.footer h2{
+    font-weight: 700;
+    color: white;
 }
 
 .size{
     
     color: white;
-    font-weight: 700;
+    font-weight: 400;
 }
 
-.fa-facebook, .fa-twitter, .fa-instagram-square, .fa-envelope{
-   font-size: 20px;
+.fa-facebook-f, .fa-twitter, .fa-instagram-square, .fa-envelope{
+   font-size: 35px;
+   margin-right: 20px;
+   color: white;
+   background-color: rgba(128, 128, 128, 0.726);
+   
+   height: 40px;
+   width: 50px;
+   
+   border-radius: 10px;  
+ 
 }
 
-/* .social-link{
-    size: 500px;
-} */
