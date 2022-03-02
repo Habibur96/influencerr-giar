@@ -4,6 +4,7 @@
 /* common style or utilities*/
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h2{
     display: inline;
@@ -186,7 +187,7 @@ color: #787885;
  
 }
 
-/* =================A_simple_vidio_part================= */
+/* =================A_vidio_part================= */
 iframe{
 margin-left: 435px;
 margin-top: 100px;
@@ -194,4 +195,34 @@ border-radius: 10px;
 
 }
 
+/* =================Footer====================== */
 
+.footer{
+    background: #0A0826;
+     /* width: 100px;  */
+    /* display: block; */
+    height: 300px;
+    /* padding-bottom: 70px; */
+    /* margin-top: 50px; */
+}
+
+.footer{
+
+    text-align: center;
+    padding-top: 50px;
+   
+}
+
+.size{
+    
+    color: white;
+    font-weight: 700;
+}
+
+.fa-facebook, .fa-twitter, .fa-instagram-square, .fa-envelope{
+   font-size: 20px;
+}
+
+/* .social-link{
+    size: 500px;
+} */
