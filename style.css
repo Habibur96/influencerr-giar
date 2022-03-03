@@ -207,7 +207,7 @@ display: flex;
 
 
  /* align-items: center;  */
-margin-left: 435px;
+/* margin-left: 435px; */
  margin-top: 100px; 
 border-radius: 20px;
 padding-bottom: 60px;
@@ -237,7 +237,7 @@ padding-bottom: 60px;
     text-align: center;
     padding-top: 60px; 
     padding-bottom: 60px;
-    
+
 }
  
 .footer h2{
