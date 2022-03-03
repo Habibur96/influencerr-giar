@@ -199,25 +199,31 @@ color: #787885;
 /* =================A_vidio_part================= */
 
 .container {
-    display: flex;
-align-items: center;
-    margin-left: 435px;
-margin-top: 100px;
+display: flex;
+
+
+ /* align-items: center;  */
+margin-left: 435px;
+ margin-top: 100px; 
 border-radius: 20px;
 padding-bottom: 60px;
 }
 
-.container .text {
-    
-    size: 50px;
-}
-/* iframe{
-margin-left: 435px;
-margin-top: 100px;
-border-radius: 10px;
-padding-bottom: 60px;
 
-} */
+ .text > p{
+   font-size: 30px;
+   margin-left: 40px;
+   color: #FB8200;
+   margin-top: 80px;
+}
+
+.fa-hand-point-left{
+    font-size: 80px;
+    margin-left: 60px;
+    margin-top: 25px;
+    
+}
+
 
 /* =================Footer====================== */
 
