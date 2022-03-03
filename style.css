@@ -286,9 +286,9 @@ padding-bottom: 60px;
      justify-content: center;  
 }
     
-      .right img{
+       .right img{
         margin-left: -70px;
-    }   
+    }    
     
     #unique{
         display: flex;
@@ -353,6 +353,10 @@ padding-left: -15px;
         margin-left: -40px;
     }
 
+     .container{
+    margin-left: -50px;
+} 
+    
     .footer{
         width: 380px;
     }
